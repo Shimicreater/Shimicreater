@@ -1,4 +1,4 @@
-# Hi, I'm Vandra 👋
+# Hi, I'm Faiz 👋
 
 ---
 ##  👨‍🎓 About Me
