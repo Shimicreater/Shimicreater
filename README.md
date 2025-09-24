@@ -26,10 +26,10 @@ Currently, I’m learning mobile programming:
 |----|------------|---------|--------------------------------------------|------------|----------|
 | 1  | 03-09-2025 | 01      | Introduction to Mobile Programming & Environment Setup | [Task 01](#) | [Laporan Modul 1](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing) |
 | 2  | 3-09-2025 | 02      | Widget Row and Column       | [Task 02](#) | [Laporan Modul 2](https://drive.google.com/file/d/1M4utnTtmWTm16zQrg5nJ99xhgj0aTZwK/view?usp=sharing) |
-| 3  | 10-09-2025 | 02      | Pengaturan Layout Row dan Column di Flutter       | [Task 03](#) | [Laporan Modul 3](https://drive.google.com/file/d/1_pOsf7boWFPybRHWx-buge0mw7YJB7rg/view?usp=sharing) |
-| 4  | 10-09-2025 | 02      | Widget Flexible dan Expanded        | [Task 04](#) | [Laporan Modul 4](https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing) |
-| 5  | 17-09-2025 | 02      | Widget SizedBox, Spacer, dan Card       | [Task 05](#) | [Laporan Modul 5](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing) |
-| 6  | 17-09-2025 | 02      | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](#) | [Laporan Modul 6](#) |
+| 3  | 10-09-2025 | 03      | Pengaturan Layout Row dan Column di Flutter       | [Task 03](#) | [Laporan Modul 3](https://drive.google.com/file/d/1_pOsf7boWFPybRHWx-buge0mw7YJB7rg/view?usp=sharing) |
+| 4  | 10-09-2025 | 04      | Widget Flexible dan Expanded        | [Task 04](#) | [Laporan Modul 4](https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing) |
+| 5  | 17-09-2025 | 05      | Widget SizedBox, Spacer, dan Card       | [Task 05](#) | [Laporan Modul 5](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing) |
+| 6  | 17-09-2025 | 06     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](#) | [Laporan Modul 6](#) |
 
 
 ---
