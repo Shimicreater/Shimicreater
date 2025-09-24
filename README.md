@@ -34,7 +34,7 @@ Currently, I’m learning mobile programming:
 ---
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ekarisnovandra/)  
-- [Email](mailto:risnovandraeka@gmail.com)  
+- [Email](faizfadhil12345@gmail.com)  
 
 ---
 
