@@ -24,7 +24,7 @@ Currently, I’m learning mobile programming:
 
 | No | Date       | Session | Topic                                      | Report     | Laporan Praktikum     |
 |----|------------|---------|--------------------------------------------|------------|----------|
-| 1  | 03-09-2025 | 01      | Introduction to Mobile Programming & Environment Setup | [Task 01](#) | [Laporan Modul 1]([#](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing)) |
+| 1  | 03-09-2025 | 01      | Introduction to Mobile Programming & Environment Setup | [Task 01](#) | [Laporan Modul 1](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing) |
 | 2  | 10-09-2025 | 02      | Widget Row and Column       | [Task 02](#) | [Repo 02](#) |
 
 
