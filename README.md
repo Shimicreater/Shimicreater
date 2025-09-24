@@ -33,8 +33,8 @@ Currently, I’m learning mobile programming:
 
 ---
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ekarisnovandra/)  
-- [Email](faizfadhil12345@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/faiz-fadhilah-276551288/)  
+- [Email](mailto:faizfadhil12345@gmail.com)  
 
 ---
 
