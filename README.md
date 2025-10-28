@@ -29,13 +29,13 @@ Currently, I’m learning mobile programming:
 | 3  | 10-09-2025 | 02      | Pengaturan Layout Row dan Column di Flutter       | [Task 03](#) | [Laporan Modul 3](https://drive.google.com/file/d/1_pOsf7boWFPybRHWx-buge0mw7YJB7rg/view?usp=sharing) |
 | 4  | 10-09-2025 | 02      | Widget Flexible dan Expanded        | [Task 04](#) | [Laporan Modul 4](https://drive.google.com/file/d/1A-PG9e4nZhGNT3kKGOoerxYbF9C2bYsx/view?usp=sharing) |
 | 5  | 17-09-2025 | 03      | Widget SizedBox, Spacer, dan Card       | [Task 05](#) | [Laporan Modul 5](https://drive.google.com/file/d/12PsEWhgro4Q05cox-y8wDUfYC7BH_LJO/view?usp=sharing) |
-| 6  | 17-09-2025 | 03     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](#) | [Laporan Modul 6]
-| 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](#) | [Laporan Modul 7]
-| 8  | 24-09-2025 | 04     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route        | [Task 08](#) | [Laporan Modul 8]
+| 6  | 17-09-2025 | 03     | Widget GridView, ListView, GridView.builder, dan ListView.builder        | [Task 06](#) | [Laporan Modul 6] |
+| 7  | 24-09-2025 | 04     | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route        | [Task 07](#) | [Laporan Modul 7] |
+| 8  | 24-09-2025 | 04     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route        | [Task 08](#) | [Laporan Modul 8] |
 | 9  | 1-10-2025 | 05     | StatefulWidget        | [Task 09](#) | [Laporan Modul 9]
-| 10  | 8-10-2025 | 06     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter        | [Task 10](#) | [Laporan Modul 10]
+| 10  | 8-10-2025 | 06     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter        | [Task 10](#) | [Laporan Modul 10] |
 | 11  | 15-10-2025 | 07     | Manajemen State dengan GetX      | [Task 11](#) | [Laporan Modul 11]
-| 12  | 22-10-2025 | 07     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan Modul 11](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) 
+| 12  | 22-10-2025 | 07     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan UTS](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) |
 (#) |
 
 
