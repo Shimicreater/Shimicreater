@@ -22,7 +22,7 @@
 
 Currently, I’m learning mobile programming:
 
-| No | Date       | Praktikum ke | Topic                                      | Modul	     | Laporan Praktikum     |
+| No | Date       | Praktikum ke | Topic                                      | Repo	     | Laporan Praktikum     |
 |----|------------|---------|--------------------------------------------|------------|----------|
 | 1  | 03-09-2025 | 01      | Introduction to Mobile Programming & Environment Setup | [Task 01](#) | [Laporan Modul 1](https://drive.google.com/file/d/1D9olQua29sb94bNs12HwqaTo6hYwVpIp/view?usp=sharing) |
 | 2  | 3-09-2025 | 01      | Widget Row and Column       | [Task 02](#) | [Laporan Modul 2](https://drive.google.com/file/d/1M4utnTtmWTm16zQrg5nJ99xhgj0aTZwK/view?usp=sharing) |
@@ -35,6 +35,7 @@ Currently, I’m learning mobile programming:
 | 9  | 1-10-2025 | 05     | StatefulWidget        | [Task 09](#) | [Laporan Modul 9]
 | 10  | 8-10-2025 | 06     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter        | [Task 10](#) | [Laporan Modul 10]
 | 11  | 15-10-2025 | 07     | Manajemen State dengan GetX      | [Task 11](#) | [Laporan Modul 11]
+| 12  | 22-10-2025 | 07     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan Modul 11](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) 
 (#) |
 
 
