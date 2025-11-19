@@ -1,23 +1,7 @@
 # Hi, I'm Faiz 👋
 
 ---
-##  👨‍🎓 About Me
-🎓 Currently studying *Informatics Engineering* at *State Islamic University of Malang (UIN Malang)*.  
-🌱 Always *learning, creating, and growing* through technology.  
-📱 Focusing on *Fullstack Mobile Development* with Flutter.  
-🤖 Exploring *Artificial Intelligence* & *Augmented Reality*. 
 
----
-
----
-##  🚀 Tech Stack
-- *Languages:* Dart, Java, PHP, JavaScript  
-- *Frameworks & Tools:* Flutter, MySQL, Git, Android Studio, Netbeans
-- *Currently Learning:* Flutter for mobile, AI concepts, AR development
-
----
-
----
 ##  📘 Learning Progress
 
 Currently, I’m learning mobile programming:
