@@ -25,8 +25,10 @@ Currently, I’m learning mobile programming:
 | 8  | 24-09-2025 | 04     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route        | [Task 08](https://github.com/Shimicreater/Modul_8.git) | [Laporan Modul 8](https://drive.google.com/file/d/1vyt86v5KoOwrcV2PgSVypoBuYgCiGJI4/view?usp=sharing) |
 | 9  | 1-10-2025 | 05     | StatefulWidget        | [Task 09](https://github.com/Shimicreater/Modul_9.git) | [Laporan Modul 9](https://drive.google.com/file/d/1tAaWVLhJvJ53cCVlCsY-dDexDrbQEF60/view?usp=sharing) |
 | 10  | 8-10-2025 | 06     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter        | [Task 10](https://github.com/Shimicreater/Modul_10.git) | [Laporan Modul 10](https://drive.google.com/file/d/1i1-R6subL9gQshDBMif3_T-3kh9jAX9N/view?usp=sharing) |
-| 11  | 15-10-2025 | 07     | Manajemen State dengan GetX      | [Task 11](#) | [Laporan Modul 11](https://drive.google.com/file/d/1cr4_B1utxhzaKsmb74c8uPlvmvmkKgHw/view?usp=sharing) |
-| 12  | 22-10-2025 | 07     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan UTS](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) |
+| 11  | 15-10-2025 | 07     | Manajemen State dengan GetX      | [Task 11](https://github.com/Shimicreater/Modul_11.git) | [Laporan Modul 11](https://drive.google.com/file/d/1cr4_B1utxhzaKsmb74c8uPlvmvmkKgHw/view?usp=sharing) |
+| 12  | 22-10-2025 | 08     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan UTS](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) |
+| 13  | 5-11-2025 | 09     | Akses Lokasi dengan GPS di Flutter      | [Task 12](https://github.com/Shimicreater/Modul_12.git) | [Laporan 12](https://drive.google.com/file/d/1g7vWoBJMt12_x6TynV9-NSZA_07PZP13/view?usp=sharing) |
+| 14  | 13-10-2025 | 10     | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API      | [task 13](https://github.com/Shimicreater/Modul_13.git) | [Laporan 13](https://drive.google.com/file/d/165wxB7yALHGHPQVzgOXSDULceztXqTKZ/view?usp=sharing) |
 (#) |
 
 
