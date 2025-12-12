@@ -29,7 +29,7 @@ Currently, I’m learning mobile programming:
 | 12  | 22-10-2025 | 08     | Ujian Tengah Semester      | [UTS](https://github.com/Shimicreater/Ujian_Tengah_Semester.git) | [Laporan UTS](https://drive.google.com/file/d/1u-oMiR8EmjANdiC9XPk8vSTam9wpEwrD/view?usp=sharing) |
 | 13  | 5-11-2025 | 09     | Akses Lokasi dengan GPS di Flutter      | [Task 12](https://github.com/Shimicreater/Modul_12.git) | [Laporan 12](https://drive.google.com/file/d/1g7vWoBJMt12_x6TynV9-NSZA_07PZP13/view?usp=sharing) |
 | 14  | 13-10-2025 | 10     | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API      | [task 13](https://github.com/Shimicreater/Modul_13.git) | [Laporan 13](https://drive.google.com/file/d/165wxB7yALHGHPQVzgOXSDULceztXqTKZ/view?usp=sharing) |
-| 15  | 12-12-2025 | 10     | Ujian Akhir Semester      | [task 13](https://github.com/Shimicreater/UAS_Aplikasi_Rekomendasi_anime.git) | [Laporan 13](https://drive.google.com/file/d/1nCVQsYKHuBoFL0bh31RCK1qSZ3Ckh3-x/view?usp=sharing) |
+| 15  | 12-12-2025 | 11     | Ujian Akhir Semester      | [task 13](https://github.com/Shimicreater/UAS_Aplikasi_Rekomendasi_anime.git) | [Laporan 13](https://drive.google.com/file/d/1nCVQsYKHuBoFL0bh31RCK1qSZ3Ckh3-x/view?usp=sharing) |
 (#) |
 
 
